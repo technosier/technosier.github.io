@@ -1,2 +1,3 @@
-# technosier.github.io
+# Technosier
+technosier.github.io
 This is Organization portfolio website
