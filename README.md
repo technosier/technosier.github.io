@@ -1,4 +1,2 @@
 # Technosier
-technosier.github.io
-This is Organization portfolio website
-Thank you 
+This is a overview of profile readme
